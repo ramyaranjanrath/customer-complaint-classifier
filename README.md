@@ -1,7 +1,7 @@
 # Customer Complaint Classification (End-to-End ML Project)
 ******************************************************************************************************************************************
-Prediction dashboard link: https://classifying-customer-complaint.streamlit.app/ 
-
+Prediction dashboard link: [https://classifying-customer-complaint.streamlit.app/ 
+](https://customer-complaint-classifier.streamlit.app/)
 This project builds and deploys a machine learning system that classifies customer complaint text into product categories using TF-IDF and LinearSVC.  
 The model is deployed as an interactive web app using Streamlit.
 
@@ -51,16 +51,16 @@ README.md
 ---
 ## How to Run Locally
 
-Clone the repository:https://github.com/ramyaranjanrath/customer-complaint-classifier
-cd your-repo-name
-pip install -r requirements.txt
-Run the Streamlit app: streamlit run app.py
+- Clone the repository:https://github.com/ramyaranjanrath/customer-complaint-classifier
+- cd your-repo-name
+- pip install -r requirements.txt
+- Run the Streamlit app: streamlit run app.py
 
 ---
 ## Example
 
-**Input:** My bank charged me extra fees without explanation
-**Output:** Checking or savings account
+- **Input:** My bank charged me extra fees without explanation
+- **Output:** Checking or savings account
 
 ---
 
