@@ -36,17 +36,25 @@ The project follows an end-to-end ML pipeline:
 ## Project Structure
 
 src/
+
 data_ingestion.py
+
 data_processing.py
+
 model.py
+
 inference.py
 
 artifacts/
+
 model.pkl
+
 vectorizer.pkl
 
 app.py
+
 requirements.txt
+
 README.md
 
 ---
